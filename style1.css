@@ -1,0 +1,116 @@
+.top{
+    width: 100%;
+    height: 20vh;
+    background-image: url(blood6.png);
+    background-repeat:no-repeat;
+}
+.mid{
+    width: 100%;
+    height: 65vh;
+    background-image: url(blood1.jpg);
+    background-size: cover;
+    height: 100vh;
+
+}
+.foot{
+    width: 100%;
+    height: 15vh;
+    background-image: url(blood7.png);
+    text-align: center;
+
+}
+.tophome{
+    align-content: flex-end;
+
+}
+.topleft{
+    display: flex;
+    justify-content: flex-end;
+}
+.topleftcontent{
+    border-style:ridge;
+    border-width: 2vh;
+    padding: 1vh;
+    margin-right: 5vh;
+}
+.mainbutton{
+    float: left;
+    margin-left: 56vh;
+    margin-top: 20vh;
+    border-style:groove;
+    border-width: 5vh;
+    border-radius: 2vh;
+}
+.marqbottom{
+    margin-top: 60vh;
+}
+.regmid{
+    width: 80%;
+    height: 65vh;
+    background-image: url(blood2.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-position-x: 10vh left;
+}
+.midform{
+    width: 50vh;
+    height: 100vh;
+    background-color: rgb(24, 134, 168);
+}
+.midmain{
+    display: flex;
+    justify-content: flex-end;
+}
+.regsuccess{
+    width: 100%;
+    height: 65vh;
+    background-image: url(blood3.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.search{
+    width: 100%;
+    height: 65vh;
+    background-image: url(blood4.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.sr1{
+   margin-top: 30vh;
+   margin-left: 40vh;
+   float: left;
+}
+.sbutton{
+    float: left;
+    margin-left: 10vh;
+    margin-top: 70vh;
+    border-style:groove;
+    border-width: 5vh;
+    border-radius: 2vh;
+}
+.searchresult{
+    width: 100%;
+    height: 65vh;
+    background-image: url(blood5.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.aboutmid{
+    width: 100%;
+    height: 65vh;
+    background-image: url(blood9.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.loginmid{
+    width: 100%;
+    height: 65vh;
+    background-image: url(blood10.jpg);
+    background-size: cover;
+    height: 100vh;
+    
+
+}
+.loginmid1{
+    margin-left: 60vh;
+}
